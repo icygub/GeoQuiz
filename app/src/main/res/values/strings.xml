@@ -1,6 +1,46 @@
 <resources>
-    <string name="app_name">GeoQuiz</string>
+    <string name="app_name">Brazil Quiz</string>
     <string name="question_text">Canberra is the capital of Australia.</string>
     <string name="true_button">True</string>
     <string name="false_button">False</string>
+    <string name="correct_toast">Correct!!!</string>
+    <string name="incorrect_toast">WRONG :(</string>
+    <string name="next_button">Next</string>
+
+    <string name="question_australia">Canberra is the capital of Australia.</string>
+    <string name="question_oceans">The Pacific Ocean is larger than the Atlantic Ocean.</string>
+    <string name="question_mideast">The Suez Canal connects the Red Sea and the Indian Ocean.</string>
+    <string name="question_africa">The source of the Nile River is in Egypt.</string>
+    <string name="question_americas">The Amazon River is the longest river in the Americas.</string>
+    <string name="question_asia">Lake Baikal is the world\'s oldest and deepest freshwater lake.</string>
+
+    <string name="bra_brasilia_capital">The capital of Brazil is Brasilia.</string>
+    <string name="bra_brasilia_airplane">Brasilia looks like an airplane when seen from the sky.</string>
+    <string name="bra_largest_state">Amazonas is Brazil\'s largest state.</string>
+    <string name="bra_corinthians">Corinthians is the best soccer team in Brazil. The answer is obvious.</string>
+    <string name="bra_gender_change">It is illegal to surgically change your gender in Brazil.</string>
+    <string name="bra_voting">Just like the USA, voting is also optional in Brazil.</string>
+    <string name="bra_tanning_beds">Tanning beds are illegal in Brazil.</string>
+    <string name="bra_world_cup_spendings">Brazil spent $11 Billion Dollars for the 2014 World Cup.</string>
+    <string name="bra_japanese">Brazil has the largest Japanese population in the world, besides Japan.</string>
+    <string name="bra_cariocas">People from the city of Rio de Janeiro are called Cariocas.</string>
+    <string name="bra_rio_de_janeiro_pronounciation">Brazilians pronounce Rio de Janeiro as \'Hio de Janeiro\'.</string>
+    <string name="bra_portuguese">Brazil is one of two South American countries that speak Portuguese.</string>
+    <string name="bra_population_size">Population of Brazil is greater than 300 million.</string>
+    <string name="bra_high_school">About 75-80% of Brazilian\'s have a high-school diploma.</string>
+    <string name="bra_nuts">Brazil is the largest exporter of nuts in the world.</string>
+    <string name="bra_coffee">Brazil is the largest exporter of coffee in the world.</string>
+    <string name="bra_nao_me_toque">There is a city in Brazil called Nao-Me-Toque (Don\'t touch me).</string>
+    <string name="bra_airports">Brazil has the 2nd largest number of airports in the world.</string>
+    <string name="bra_iphones">Due to impot tax, iPhones in Brazil are x10 more expensive than in the USA.</string>
+    <string name="bra_rio_de_janeiro_capital">Rio de Janeiro used to be the capital of Spain.</string>
+    <string name="bra_touch_other_countries">Brazil touches each South American country except Chile and Ecuador.</string>
+    <string name="bra_tallest_mountain">Mount Roraima is Brazil\'s tallest mountain.</string>
+    <string name="bra_largest_country">Brazil is the 4th largest country in the world.</string>
+    <string name="bra_catholic">Over 70% of Brazilians are Catholic.</string>
+    <string name="bra_soccer_team">The Brazilian soccer team has won 8 world cups in a row.</string>
+    <string name="bra_longest_beach">Praia do Cassino in Brazil is the world\'s longest beach.</string>
+    <string name="bra_soccer_not_popular">Soccer is not Brazil\'s most popular sport.</string>
+    <string name="bra_fifty_percent_spanish">50% of people in Brazil actually speak Spanish as their first language.</string>
+
 </resources>
